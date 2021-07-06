@@ -1,6 +1,6 @@
 # Diskeo
 
-![](C:\Users\Andrés\Pictures\Inkscape\diskeo.png)
+![](https://i.ibb.co/t37331W/diskeo.png)
 
 Public project for Diskeo
 
