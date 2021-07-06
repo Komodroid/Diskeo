@@ -1,6 +1,6 @@
 # Diskeo
 
-![](https://i.ibb.co/t37331W/diskeo.png)
+![](https://i.ibb.co/gM80PtX/diskeo-blurple.png)
 
 Public project for Diskeo
 
