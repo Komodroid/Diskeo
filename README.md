@@ -7,7 +7,7 @@ Available at   [<img valign="middle" src="https://img.shields.io/badge/Itch.io-v
 
 ##### `▶`   For support, issues, bug reports and exclusive community events, join our Discord Server:
 
-Join us!  [<img valign="middle" src="https://img.shields.io/badge/Discord-Online:%20247-5865F2?style=for-the-badge&logo=discord">](https://komodroid.itch.io/diskeo)
+Join us!  [<img valign="middle" src="https://img.shields.io/badge/Discord-Online:%20247-5865F2?style=for-the-badge&logo=discord">](https://discord.io/komodroid)
 
 
 ##### `▶`   To see our public roadmap, please check the [Projects](https://github.com/Komodroid-Games/Diskeo/projects) section! 
